@@ -21,7 +21,7 @@ Change the Image Path and Style path with your own image and style and view the 
 
 ![](inpt.jpg)   ![](stylei1.jpg)
 
-Result after 9000 iterations 
+### Result after 9000 iterations 
 
 ![](srs.png)
 
