@@ -15,9 +15,8 @@ Change the Image Path and Style path with your own image and style and view the 
 
 # Example
 
-![](ssd.jpg)
-
-![](style.jpg)
+![](ssd.jpg){:height="24px" width="28px"} 
+![](style.jpg){:height="24px" width="28px"} 
 
 Result after 9000 iterations 
 
