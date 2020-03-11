@@ -15,10 +15,10 @@ Change the Image Path and Style path with your own image and style and view the 
 
 # Example
 
-![](ssd.jpj)
+![](ssd.jpg)
 
-![](style.gif)
+![](style.jpg)
 
 Result after 9000 iterations 
 
-![](srs.gif)
+![](srs.png)
