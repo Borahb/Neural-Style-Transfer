@@ -15,9 +15,7 @@ Change the Image Path and Style path with your own image and style and view the 
 
 # Example
 
-![](ssd.jpg)
-
-![](style.jpg)
+![](ssd.jpg)   ![](style.jpg)
 
 Result after 9000 iterations 
 
