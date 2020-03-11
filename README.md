@@ -17,7 +17,7 @@ Change the Image Path and Style path with your own image and style and view the 
 
 ## Style Transfer
 
-![](ssd.jpg)   ![](style.jpg)
+![](inpt.jpg)   ![](style.jpg)
 
 Result after 9000 iterations 
 
