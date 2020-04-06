@@ -17,7 +17,7 @@ Change the Image Path and Style path with your own image and style and view the 
 
 # Example
 
-## Style Transfer
+## Input 1
 
 ![](inpt.jpg)   ![](stylei1.jpg)
 
@@ -25,4 +25,10 @@ Change the Image Path and Style path with your own image and style and view the 
 
 ![](srs.png)
 
+### Input 2
 
+![](hrid.jpg)  ![](stylei1.jpg)
+
+### Result after 9000 iterations
+
+![](hridfin.png)
